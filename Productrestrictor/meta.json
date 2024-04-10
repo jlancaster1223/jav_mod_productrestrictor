@@ -1,0 +1,10 @@
+{
+    "name": "Product Restrictor",
+    "description": "Restricts the products that can be added to the cart based on the user's group or ID.",
+    "version": "1.0",
+    "author": "James Lancaster",
+    "versionnotes": {
+      "1.0": "Initial release."
+    },
+    "autoupdate": false
+  }
